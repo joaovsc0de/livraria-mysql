@@ -1,4 +1,4 @@
-# Projeto Banco de Dados - Sistema de Livraria
+# Banco de Dados - Sistema de Livraria
 Este projeto simula um sistema de vendas de uma livraria, incluindo autores, livros, clientes, vendas e histórico de preços. As consultas foram desenvolvidas em MySQL.
 
 ## 🔗 Modelo Relacional
