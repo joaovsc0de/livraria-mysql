@@ -3,7 +3,7 @@ Este projeto simula um sistema de vendas de uma livraria, incluindo autores, liv
 
 ## 🔗 Modelo Relacional
 
-![Modelo Relacional](imagem/modelo_relacional.png)
+![Modelo Relacional](imagem/bd.png)
 
 ---
 
